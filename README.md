@@ -10,9 +10,9 @@
   https://stormy-inlet-79142.herokuapp.com
 
   ## Screenshot of application
-   ![Screenshot1](./assets/pictures/screenshot1.png)
-   ![Screenshot2](./assets/pictures/screenshot2.png)
-   ![Screenshot3](./assets/pictures/screenshot3.png)
+   ![Screenshot1](./client/public/screenshot1.png)
+   ![Screenshot2](./client/public/screenshot2.png)
+   ![Screenshot3](./client/public/screenshot3.png)
   
   ## Table of Contents
   - [Installation](#installation)
@@ -27,7 +27,8 @@
   ## Installation
   When deploying locally
     `Npm i`  to install node_modules.  
-    `Npm run Develop`  to run applicaation.  
+    `Npm run develop`  to run application.  
+  There you will be able to run the application locally.
   
   ## Contributing
   Feel free to add or change any code.
@@ -38,7 +39,7 @@
   
 
   ## Features
-  MongoDB, MongoDBAtlas, Heroku
+  MongoDB, MongoDBAtlas, Heroku, Express, Node.js, React
   
   ## Tests
   N/A
