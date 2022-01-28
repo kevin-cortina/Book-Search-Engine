@@ -25,10 +25,9 @@
   - [Questions](#questions)
  
   ## Installation
-  Make sure to have MongoDb running. Then proceed:
-    `Npm i`  to install node_modules. 
-    `Npm start`  to run applicaation
-  You should be able to test this application after npm start.
+  When deploying locally
+    `Npm i`  to install node_modules.  
+    `Npm run Develop`  to run applicaation.  
   
   ## Contributing
   Feel free to add or change any code.
