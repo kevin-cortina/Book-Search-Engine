@@ -1,11 +1,11 @@
   [![Community License](https://img.shields.io/badge/license-Community-blue.svg)](http://www.gnu.org/licenses/Community-3.0)
 
-  # book-search-engine
+  # Book-Search-Engine
   
   
   ## Description
-  This application helps individuals track their total measurements in working out. It gives them the ability to see the total amount of weight and total time working out. This application's back end runs through MongoDB atlas. 
-  
+  This application helps individuals create a favorites book list for books that they want to read using the Google API. It allows them to create/login to their account to make sure their book lists are private and secure.
+
   ## Deployed Application
   https://stormy-inlet-79142.herokuapp.com
 
@@ -25,10 +25,11 @@
   - [Questions](#questions)
  
   ## Installation
-  When deploying locally
+  When deploying locally,  
     `Npm i`  to install node_modules.  
     `Npm run develop`  to run application.  
-  There you will be able to run the application locally.
+
+  There you will be able to run the application locally. 
   
   ## Contributing
   Feel free to add or change any code.
