@@ -28,15 +28,5 @@
     "mongoose": "^6.1.8",
     "react-router-dom": "^5.3.0",
     "yarn": "^1.22.17"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kevin-cortina/bse_2.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kevin-cortina/bse_2/issues"
-  },
-  "homepage": "https://github.com/kevin-cortina/bse_2#readme",
-    "build": "^0.1.4",
-    "graphql": "^15.4.0"
   }
+}
