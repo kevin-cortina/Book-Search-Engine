@@ -1,0 +1,60 @@
+{
+  "name": "googlebooks-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server.js",
+  "scripts": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "watch": "npm-watch", 
+=======
+    "watch": "npm-watch",
+>>>>>>> 462b9c91 (heroku)
+=======
+>>>>>>> 83e86f36 (heroku)
+    "start": "node server/server.js",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
+    "install": "cd server && npm i && cd ../client && npm i",
+    "build": "cd client && npm run build"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.5.8",
+<<<<<<< HEAD
+    "@apollo/link-context": "^2.0.0-beta.3",
+    "apollo-server": "^3.6.2",
+<<<<<<< HEAD
+    "apollo-server-express": "^3.6.2",
+    "graphql": "^16.2.0",
+=======
+    "apollo-server-express": "^2.15.0",
+    "graphql": "^15.4.0",
+>>>>>>> 462b9c91 (heroku)
+    "graphql-disable-introspection": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.8",
+    "react-router-dom": "^5.3.0",
+    "yarn": "^1.22.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-cortina/bse_2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevin-cortina/bse_2/issues"
+  },
+  "homepage": "https://github.com/kevin-cortina/bse_2#readme"
+=======
+    "build": "^0.1.4",
+    "graphql": "^15.4.0"
+  }
+>>>>>>> 83e86f36 (heroku)
+}
+

@@ -1,0 +1,41 @@
+
+   
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+<<<<<<< HEAD
+    "@apollo/client": "^3.5.8",
+    "@apollo/link-context": "^2.0.0-beta.3",
+    "apollo-server": "^3.6.2",
+<<<<<<< HEAD
+    "apollo-server-express": "^3.6.2",
+    "graphql": "^16.2.0",
+=======
+=======
+>>>>>>> 83e86f36 (heroku)
+    "apollo-server-express": "^2.15.0",
+    "bcrypt": "^4.0.1",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0",
+<<<<<<< HEAD
+>>>>>>> 462b9c91 (heroku)
+    "graphql-disable-introspection": "^1.2.0",
+=======
+>>>>>>> 83e86f36 (heroku)
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
