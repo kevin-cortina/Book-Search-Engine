@@ -7,7 +7,7 @@
   This application helps individuals track their total measurements in working out. It gives them the ability to see the total amount of weight and total time working out. This application's back end runs through MongoDB atlas. 
   
   ## Deployed Application
-  https://desolate-crag-37061.herokuapp.com/
+  https://stormy-inlet-79142.herokuapp.com
 
   ## Screenshot of application
    ![Screenshot1](./assets/pictures/screenshot1.png)
